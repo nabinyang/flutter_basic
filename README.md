@@ -1,4 +1,5 @@
 # flutter_kakaotalk_clone
+<<<<<<< HEAD
 
 A new Flutter project.
 
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+flutter UI 공부하려고 만듦 \
+2023-04-20
+>>>>>>> eecefb8fe21d41a24e3c6a571decb27316c95755
